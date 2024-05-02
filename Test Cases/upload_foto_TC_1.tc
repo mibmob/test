@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>upload foto profil</description>
+   <name>upload_foto_TC_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f03a7d8-3cf9-49c9-b97f-414282da5d97</testCaseGuid>
+</TestCaseEntity>

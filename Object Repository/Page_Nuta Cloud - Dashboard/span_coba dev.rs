@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_coba dev</name>
+   <tag></tag>
+   <elementGuidId>f8645f6c-af06-4d61-ac96-616fefb54519</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dropdown-profile']/a/span[2]/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.nav-profile-outlet-name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f979483e-bbe9-4812-9a61-c8eecc47b19f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-profile-outlet-name</value>
+      <webElementGuid>e30af906-d175-4125-a24f-1b60fc97a717</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>coba dev</value>
+      <webElementGuid>cb62cb44-a168-47d6-ab4a-2cb5fe3fe432</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dropdown-profile&quot;)/a[@class=&quot;clearfix waves-effect waves-block no-bg-hover a-profile&quot;]/span[2]/span[@class=&quot;user-info&quot;]/span[@class=&quot;nav-profile-outlet-name&quot;]</value>
+      <webElementGuid>f7e3f693-e441-45eb-88b3-238b400b6247</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dropdown-profile']/a/span[2]/span/span</value>
+      <webElementGuid>0ac8831a-5c5b-439a-86f6-701b928e350b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktivasi Nutapos'])[11]/following::span[4]</value>
+      <webElementGuid>f1d852d8-25ae-4e29-8636-c8330e54b7a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aktivasi Nutapos'])[10]/following::span[4]</value>
+      <webElementGuid>d0980507-fdbd-4c84-ac7d-5aa8034628fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='coba dev'])[2]/preceding::span[4]</value>
+      <webElementGuid>2f92aa98-b5a1-47fd-ad95-5cd05e9e1c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outlet Saya'])[1]/preceding::span[8]</value>
+      <webElementGuid>405620d7-137d-4a65-a5b5-7f1226a0d8c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='coba dev']/parent::*</value>
+      <webElementGuid>7553a5c1-94c5-4d65-ada1-6a06304e2a65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/span/span</value>
+      <webElementGuid>c8d8f838-bae9-4237-af60-936b9731c259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'coba dev' or . = 'coba dev')]</value>
+      <webElementGuid>e967d714-3d0a-4e6f-b041-90a4e6b76a98</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

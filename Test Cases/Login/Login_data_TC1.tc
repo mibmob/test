@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>tes login dengan menggunakan data excel</description>
+   <name>Login_data_TC1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2aadbc61-39dd-4e3f-be32-b0c9397be1bc</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9fe70ed5-031f-4115-8ad0-129db73ebed0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f7ca30ed-e7f0-4079-8849-ab718c36e2df</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56b50cc1-ae6a-42bd-9305-1c6f0842a567</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9fe70ed5-031f-4115-8ad0-129db73ebed0</id>
+      <masked>false</masked>
+      <name>idperusahaan</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>f7ca30ed-e7f0-4079-8849-ab718c36e2df</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>56b50cc1-ae6a-42bd-9305-1c6f0842a567</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Upload Foto</name>
+   <tag></tag>
+   <elementGuidId>93dcb6ea-9bb4-475c-a519-6f903fa6e579</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='trigger-file']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#trigger-file</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>87790750-7a68-4523-991d-140cc8132d2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f1e7bb72-7d52-4bc7-b933-c7c1eef38cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-ghost-green btn-fixed margin-bottom10</value>
+      <webElementGuid>0b22e62b-7900-4566-be40-2266e0845048</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>trigger-file</value>
+      <webElementGuid>3ac1bc51-c5bd-43c1-898c-ba314d3e884d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Upload Foto</value>
+      <webElementGuid>e6e9fe1f-bf68-49eb-adb6-f74f694e8104</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;trigger-file&quot;)</value>
+      <webElementGuid>17a6e203-856f-4aa8-b7de-31050d0254c3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='trigger-file']</value>
+      <webElementGuid>ac57aae1-c919-4eb9-9348-92c243419f7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ukuran file max 1Mb, dan berformat jpg, png, jpeg'])[1]/following::button[1]</value>
+      <webElementGuid>9b6ebdf6-75df-44b2-87ce-bff0e1448bb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Foto Profil'])[1]/following::button[1]</value>
+      <webElementGuid>74b2d7d2-d307-4943-8cd9-3258270d36f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Perusahaan'])[1]/preceding::button[1]</value>
+      <webElementGuid>3ad8864d-3a4f-4391-8bab-1b4c24e60dea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Akses Outlet Yang Dimiliki'])[1]/preceding::button[1]</value>
+      <webElementGuid>68b560db-5d17-4060-82cd-cc47bca80be8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Upload Foto']/parent::*</value>
+      <webElementGuid>fed90512-8f3f-4d45-9da3-c34c8591987c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>a9e09dd0-6def-4d35-bea4-d92d58ba9b05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'trigger-file' and (text() = 'Upload Foto' or . = 'Upload Foto')]</value>
+      <webElementGuid>ffb74eb4-ea34-45e4-8799-1eddf3d00204</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
